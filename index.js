@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Made By...","SeaBlock! :D"];
+const statusMessages = ["Maded By SeaBlock! :D"];
 
 
 let currentIndex = 0;
